@@ -3,7 +3,7 @@
 A simple analog clock built using HTML, CSS, and JavaScript that displays real-time hours, minutes, and seconds with smooth rotation.
 
 ## 🚀 Live Demo
-https://analog-clockbyjs.netlify.app/
+https://krishna-2013.github.io/Analog-Clock/
 
 ## 📸 Screenshot
 <img width="1912" height="858" alt="image" src="https://github.com/user-attachments/assets/8301b4a1-49e4-4601-9f5f-8e43b9a0b647" />
