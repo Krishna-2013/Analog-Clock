@@ -21,6 +21,7 @@ https://analog-clockbyjs.netlify.app/
 - JavaScript
 
 ## 📂 Project Structure
+```
 project-folder/
 │── index.html
 │── style.css
@@ -29,6 +30,7 @@ project-folder/
 │── clock_sound.wav
 │── Favicon.png
 │── README.md
+```
 
 ## ⚙️ How It Works
 - JavaScript uses the `Date` object to get current time
