@@ -52,3 +52,7 @@ project-folder/
 
 ## ⭐ If you like this project
 Give it a star on GitHub!
+
+## 🙌 Author
+Krishna
+GitHub: https://github.com/yourusername
